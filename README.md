@@ -22,7 +22,7 @@ Dataset containing   name of district in Nepal with Latitude, longitude and othe
 # Sneak Peek of Data Visualization created from  the dataset 
 
 
-
+![Example Viz](example-viz.png)
 
  
 ## Acknowledgments
