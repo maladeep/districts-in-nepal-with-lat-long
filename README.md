@@ -19,7 +19,7 @@ Dataset containing   name of district in Nepal with Latitude, longitude and othe
 | Official website|  Districtwise governmental website link. | 
 
 
-# Sneak Peek of Data Visualization created from  the dataset 
+# Sneak Peek of Data Visualization Created From  The Dataset 
 
 
 ![Example Viz](example-viz.png)
@@ -27,5 +27,5 @@ Dataset containing   name of district in Nepal with Latitude, longitude and othe
  
 ## Acknowledgments
 
-In collaboration with  Ashmita Phuyal. 
+In collaboration with  Ashmita Phuyal and those great people who have shared the info about Nepal around the web.
 
