@@ -1,6 +1,6 @@
 # districts-in-nepal-with-lat-long
 
-A dataset containing the name of the district in Nepal with Latitude, longitude, and other information. This will support the creation of various forms of visualization. The dataset is scrapped from a different website.
+A dataset containing the name of the **district in Nepal with latitude, longitude, and other information.** This will support the creation of various forms of visualization. The dataset is scrapped from a different website.
 
 
 # Data Dictionary
